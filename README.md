@@ -3,11 +3,12 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of the stock analysis project is to help Steven and his parents decide if DQ is a good investment. After looking at DQ's stock, the macros were updated  Macros were creating to analyze the return of the investment by year. After creating the macros, the code was refactored to improve performance. 
+The purpose of the stock analysis project is to help Steven and his parents decide if DQ is a good investment. After looking at DQ's stock, the macros were updated to analyze all stocks return of investment by year. The code was refactored to improve performance and show the execution time for each year. 
 
 ## Results
 Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script. 
 
+The screenshots below 
 ### 2017 Stock Analysis and Execution Time
 ![2017 All Stock Analysis](2017_All_Stocks_Analysis.png)
 
